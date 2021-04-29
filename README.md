@@ -4,7 +4,7 @@ this  is a django cheetsheet
 
 commonly used fields
 
-"""
+```
     BooleanField
     CharField
     CommaSeparatedIntegerField
@@ -29,4 +29,4 @@ commonly used fields
     TimeField
     URLField
     UUIDField
-"""
+```
